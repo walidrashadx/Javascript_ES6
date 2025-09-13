@@ -11,5 +11,4 @@ console.log("Hello, World!");
 console.error("This is an error message");
 var name = "Alice";
 console.log('Hello, World! $name');
-hello.innerHTML = "open";
 
