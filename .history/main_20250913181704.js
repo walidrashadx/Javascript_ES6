@@ -14,4 +14,4 @@ let personCard =
 <div id = "isStudent"> Student: ${isStudent} </div>
 <div id = "hobbies"> Hobbies: ${hobbies.join(", ")} </div>
 <div id = "address"> Address: ${address.city}, ${address.country} </div> </div>`;
-document.wirte(personCard);
+document

@@ -9,9 +9,8 @@ let address = { city: "New York", country: "USA" };
 let personCard = 
 `<div id = "card">
 
-<div id = "name"> Name: ${uname} </div>
+<div id = "name"> Name: ${name} </div>
 <div id = "age"> Age: ${age} </div>
 <div id = "isStudent"> Student: ${isStudent} </div>
 <div id = "hobbies"> Hobbies: ${hobbies.join(", ")} </div>
 <div id = "address"> Address: ${address.city}, ${address.country} </div> </div>`;
-document.wirte(personCard);
