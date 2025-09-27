@@ -16,7 +16,5 @@ let personCard =
 <div id = "address"> Address: ${address.city}, ${address.country} </div> </div>`;
 
 document.write(personCard);
-let myFriend = ["Alice","Bob","Charlie","David","Eve"];
-
-
-console.log(`hello ${myFriend[0]}`)
+let myFriend = ["Alice";
+console.log(`hello $`)

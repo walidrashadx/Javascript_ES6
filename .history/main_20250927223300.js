@@ -18,5 +18,4 @@ let personCard =
 document.write(personCard);
 let myFriend = ["Alice","Bob","Charlie","David","Eve"];
 
-
 console.log(`hello ${myFriend[0]}`)
