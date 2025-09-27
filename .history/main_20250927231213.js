@@ -30,4 +30,4 @@ window.onload = function() {
     document.getElementById("card").style.padding = "10px";
     document.getElementById("card").style.margin = "10px";
     document.getElementById("card").style.backgroundColor = "lightblue";
-    document.queryselector("h1").style.color="blue";
+    document.queryselector("h1").style
