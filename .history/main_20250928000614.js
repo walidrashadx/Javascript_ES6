@@ -38,4 +38,3 @@ myFriend.splice(2, 0, "Frank", "Grace"); // Add "Frank" and "Grace" at index 2 c
 
 myFriend.splice(2, 1, "Frank", "Grace"); // Remove 1 element at index 2 and add "Frank" and "Grace" at index 2
 myFriend.splice(4, 1); // Remove 1 element at index 4
-
