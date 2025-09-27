@@ -29,5 +29,3 @@ window.onload = function () {
   document.getElementById("card").style.backgroundColor = "lightblue";
   document.querySelector("h1").style.color = "blue";
 };
-v
-DDDSDFJJ
