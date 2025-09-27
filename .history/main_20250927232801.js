@@ -20,7 +20,7 @@ let myFriend = ["Alice", "Bob", "Charlie", "David", "Eve"];
 
 console.log(`hello ${myFriend[0]}`);
 console.log(myFriend.length);
-myFriend[2] = "Zara";
+myfriend[2] = "Zara";
 
 window.onload = function () {
   document.getElementById("card").style.border = "2px solid black";
@@ -30,4 +30,4 @@ window.onload = function () {
   document.querySelector("h1").style.color = "blue";
 };
 
-console.log(myFriend); // Output the updated array
+console.log(myFriend); //
